@@ -17,7 +17,21 @@ $(document).ready(function() {
             $("#error2").html("")
         }
         if (userName != "" && password != "") {
-
+            let user = { userName: userName, password: password }
+            $.ajax({
+                type: "POST",
+                url: "http://localhost:5005/",
+                data: JSON.stringify(user),
+                async: false,
+                success: function(result) {
+                    if (result == "wrong username")
+                        alert("نام کاریری اشتباه ");
+                    else if (result == "wrong pass")
+                        alert("پسوورد اشتباه");
+                    else if (result == "successful")
+                        alert("ورود موفقیت آمیز");
+                }
+            });
         }
     })
 })
