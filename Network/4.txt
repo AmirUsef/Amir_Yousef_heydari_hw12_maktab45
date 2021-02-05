@@ -1,0 +1,19 @@
+1- Apache Web Server
+It’s freeware, and compatible with Linux, Windows, FreeBSD, Mac and several other platforms
+Perl, Python, Tcl and PHP
+
+2- IIS
+ Microsoft IIS provides you with a graphical user interface or GUI that allows you to manage websites and associated users. It also gives IT networking services administrators the powers to modify website options such as logging, performance optimization, and effort pages
+C# and .NET
+
+3- NGINX
+It was developed to handle hundreds of concurrent connections, delivering better performance. Meant to be a load-balanced web server for heavy applications. Also, it claims to be responsible for 66% of the busiest sites
+C language
+
+4- Google Web Server (GWS) by Google
+"The Google Web Server (GWS) team builds and improves the proprietary web-serving infrastructure that powers Google web search and many other Google search properties. GWS is involved in almost every user-visible change to the google.com site, meaning that there's frequently something to write home about. We're always looking for gung-ho engineers, ideally with a background in systems and experience working with very large C++ codebases
+c++
+
+5- WP Farm
+WP Farm is by far the newest and most advanced web server on the market. They offer a range of pre-installed templates through elementor, 24/7 support, and AMP installation for any wordpress website.
+These web hosting services include cyber security, site speed, and website repair in one. If you are looks for a hands-off solution to all of your website issues and upkeep- you’ll find it here.
